@@ -10,9 +10,6 @@ ul,ol,li{
     width: 800px;
     margin: 0 auto;
 }
-body{
-    background-color: #68EDC6;
-}
 #main{
     padding: 60px 0;
 }
@@ -22,7 +19,7 @@ body{
 }
 .left{
     width: 50%;
-    background-color: #fff;
+    border: 1px solid #222;
     padding: 50px;
 }
 .heading{
@@ -38,13 +35,14 @@ body{
     bottom: 4px;
     height: 2px;
     width: 30px;
-    background-color: #68EDC6;
+    background-color: #c9ed68bb;
 }
 .namee{
     padding: 10px 0 10px 10px;
     height: 40px;
     width: 300px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 15px 0;
 }
@@ -52,7 +50,8 @@ body{
     padding: 10px 0 10px 10px;
     height: 40px;
     width: 300px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 15px 0;
 }
@@ -60,7 +59,8 @@ body{
     padding: 10px 0 10px 10px;
     height: 40px;
     width: 300px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 15px 0;
 }
@@ -68,7 +68,8 @@ body{
     padding: 10px 0 10px 10px;
     height: 40px;
     width: 300px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 15px 0;
 }
@@ -76,20 +77,13 @@ body{
     padding: 10px 0 10px 10px;
     height: 40px;
     width: 300px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     margin: 15px 0;
 }
-.card{
-    padding: 10px 0 10px 10px;
-    height: 40px;
-    width: 300px;
-    font-family: "PT Serif", serif;
-    font-size: 16px;
-    margin-top: 15px;
-}
+
 .btnn{
-    text-align: center;
     margin-top: 20px;
     display: flex;
     column-gap: 10px;
@@ -126,12 +120,12 @@ body{
 }
 .right{
     width: 50%;
-    background-color: tomato;
+    background-color: green;
     position: relative;
 }
 .subheading{
     padding-left: 50px;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 65px;
     line-height: 70px;
     width: 300px;
@@ -145,7 +139,7 @@ body{
     position: absolute;
     padding: 15px 10px;
     width: 350px;
-    background-color: #fff;
+    background-color: rgba(250, 235, 215, 0.555);
     margin: 0 auto;
     top: 50%;
     left: 50%;
@@ -155,27 +149,27 @@ body{
 .demo_name{
     font-size: 16px;
     margin: 8px 0;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .demo_email{
     font-size: 16px;
     margin: 8px 0;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .demo_prooo{
     font-size: 16px;
     margin: 8px 0;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .demo_numberr{
     font-size: 16px;
     margin: 8px 0;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
 }
 .demo_address{
     font-size: 16px;
     margin: 8px 0;
-    font-family: "PT Serif", serif;
+    font-family: 'Montserrat', sans-serif;
     list-style: 14px
 }
 
